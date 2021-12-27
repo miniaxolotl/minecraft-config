@@ -1,4 +1,15 @@
+/libraries
+/logs
+/cache
+/versions
+
+/world*
+
+*.jar
+
+usercache.jso
+version_history.json
+whitelist.json
 help.yml
 eula.txt
 
-*.jar
