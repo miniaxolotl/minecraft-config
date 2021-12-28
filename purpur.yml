@@ -1199,7 +1199,7 @@ world-settings:
         - minecraft:golden_pickaxe
         - minecraft:diamond_pickaxe
         - minecraft:netherite_pickaxe
-      use-better-mending: false
+      use-better-mending: true
       always-tame-in-creative: false
       boat:
         eject-players-on-land: false
