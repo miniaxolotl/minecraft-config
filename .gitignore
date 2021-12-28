@@ -5,6 +5,8 @@
 
 /world*
 
+/plugins/dynmap
+
 *.jar
 
 usercache.json
