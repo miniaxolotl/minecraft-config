@@ -5,8 +5,14 @@
 
 /world*
 
+/plugins/dynmap
+
 *.jar
 
+usercache.json
+ops.json
+banned-players.json
+banned-ips.json
 usercache.jso
 version_history.json
 whitelist.json
