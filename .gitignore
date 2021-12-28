@@ -6,8 +6,20 @@
 /world*
 
 /plugins/dynmap
+!/plugins/dynmap/configuration.txt
 
-*.jar
+/plugins/ChunkLoader
+!/plugins/ChunkLoader/config.yml
+
+/plugins/Ethereal
+!/plugins/Ethereal/commands.yml
+!/plugins/Ethereal/config.yml
+
+/plugins/Multiverse-Core
+!/plugins/Multiverse-Core/config.yml
+
+/plugins/Multiverse-NetherPortals
+!/plugins/Multiverse-NetherPortals/config.yml
 
 usercache.json
 ops.json
@@ -18,4 +30,6 @@ version_history.json
 whitelist.json
 help.yml
 eula.txt
+
+*.jar
 
