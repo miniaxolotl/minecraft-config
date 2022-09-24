@@ -2,15 +2,14 @@
 # As you can see, there's actually not that much to configure without any plugins.
 # For a reference for any variable inside this file, check out the Bukkit Wiki at
 # https://www.spigotmc.org/go/bukkit-yml
-# 
+#
 # If you need help on this file, feel free to join us on irc or leave a message
 # on the forums asking for advice.
-# 
+#
 # IRC: #spigot @ irc.spi.gt
 #    (If this means nothing to you, just go to https://www.spigotmc.org/go/irc )
 # Forums: https://www.spigotmc.org/
 # Bug tracker: https://www.spigotmc.org/go/bugs
-
 
 settings:
   allow-end: true
@@ -24,7 +23,7 @@ settings:
   shutdown-message: Server closed
   minimum-api: none
 spawn-limits:
-  monsters: 1024
+  monsters: 2056
   animals: 256
   water-animals: 64
   water-ambient: 32
@@ -33,7 +32,7 @@ spawn-limits:
 chunk-gc:
   period-in-ticks: 600
 ticks-per:
-  animal-spawns: 120
+  animal-spawns: 256
   monster-spawns: 1
   water-spawns: 1
   water-ambient-spawns: 1
